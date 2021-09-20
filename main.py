@@ -1,5 +1,3 @@
-# Student Name: MICHAEL CROGHAN || Student ID: 002235016
-# Course: C950 - Data Structures & Algorithms II
 import datetime
 
 from package import id_search, format_package_details
