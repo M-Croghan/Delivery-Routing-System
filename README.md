@@ -1,4 +1,4 @@
-# Delivery-Routing-System
+# Delivery Routing System - An exploration of Data Structures & Algorithms
 
 Through the use of Python, this console application helps to solve a variant of the "traveling saleman problem". Given a
 detailed list of package information, two drivers needed a quick route to make the expected deliveries in under 140 total miles traveled.
